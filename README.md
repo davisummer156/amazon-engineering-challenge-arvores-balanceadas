@@ -198,3 +198,11 @@ As alturas são medidas em nós: árvore vazia tem altura 0 e um único nó tem 
 A AVL apresentou menor altura nos casos ordenados. No caso aleatório, ambas atingiram a mesma altura após a inserção, mas a rubro-negra realizou menos rotações nessa fase: 5.865, contra 6.968 da AVL. Esses resultados evidenciam diferenças entre as estratégias de balanceamento nas entradas testadas.
 
 Os tempos e contadores completos estão em `results/atual/comparison.csv`. Os tempos registrados correspondem a uma execução e variam com hardware, carga do sistema, compilador e ambiente. Não representam uma superioridade universal de uma estrutura; conclusões de desempenho mais amplas exigem repetições e análise da variação.
+
+## Referências e uso de inteligência artificial
+
+As referências teóricas utilizadas estão indicadas na [apresentação técnica](docs/Amazon_Engineering_Challenge.pdf).
+
+### Declaração de uso de IA
+
+Foi utilizado o ChatGPT, da OpenAI, como ferramenta de apoio em algumas etapas do trabalho, incluindo a reorganização e revisão de trechos de código, o auxílio na preparação de testes e instruções de execução, a redação e revisão da documentação e a elaboração da apresentação. As sugestões geradas por IA não constituem fonte teórica nem garantia de corretude. A responsabilidade pela compreensão, revisão, validação e entrega do trabalho permanece com o autor.
