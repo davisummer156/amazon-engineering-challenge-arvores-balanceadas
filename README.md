@@ -198,9 +198,3 @@ As alturas são medidas em nós: árvore vazia tem altura 0 e um único nó tem 
 A AVL apresentou menor altura nos casos ordenados. No caso aleatório, ambas atingiram a mesma altura após a inserção, mas a rubro-negra realizou menos rotações nessa fase: 5.865, contra 6.968 da AVL. Esses resultados evidenciam diferenças entre as estratégias de balanceamento nas entradas testadas.
 
 Os tempos e contadores completos estão em `results/atual/comparison.csv`. Os tempos registrados correspondem a uma execução e variam com hardware, carga do sistema, compilador e ambiente. Não representam uma superioridade universal de uma estrutura; conclusões de desempenho mais amplas exigem repetições e análise da variação.
-
-## Estado da entrega
-
-A implementação, os testes e a apresentação [Apresentação técnica](docs/Amazon_Engineering_Challenge.pdf) estão disponíveis. Repositório público: [https://github.com/davisummer156/amazon-engineering-challenge-arvores-balanceadas](https://github.com/davisummer156/amazon-engineering-challenge-arvores-balanceadas). O último slide da apresentação também contém esse endereço.
-
-Para a entrega acadêmica, os arquivos devem estar diretamente acessíveis no repositório público, incluindo o executável Windows atualizado e as evidências da versão apresentada. O ZIP utilizado durante a preparação não substitui essa organização.
