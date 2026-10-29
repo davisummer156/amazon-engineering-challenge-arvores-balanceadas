@@ -1,0 +1,8 @@
+bin/tests.exe
+bin/compare.exe
+bin/demo.exe
+bin/*_debug.exe
+__pycache__/
+*.pyc
+*.o
+diagnostico_gdb.txt
