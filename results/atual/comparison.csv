@@ -1,0 +1,13 @@
+cenario,arvore,fase,n,altura,rotacoes_acumuladas,recoloracoes_acumuladas,insercao_ms,busca_ms,remocao_ms,valida
+crescente,AVL,insercao,10000,14,9986,0,1.690600,0.000000,0.000000,1
+crescente,AVL,remocao_metade,5000,13,12483,0,1.690600,0.562000,0.630600,1
+crescente,Rubro-Negra,insercao,10000,24,9976,49877,1.807300,0.000000,0.000000,1
+crescente,Rubro-Negra,remocao_metade,5000,22,12475,64873,1.807300,0.965000,0.719700,1
+decrescente,AVL,insercao,10000,14,9986,0,1.094600,0.000000,0.000000,1
+decrescente,AVL,remocao_metade,5000,13,12483,0,1.094600,0.381500,0.339100,1
+decrescente,Rubro-Negra,insercao,10000,24,9976,49877,1.988700,0.000000,0.000000,1
+decrescente,Rubro-Negra,remocao_metade,5000,22,12475,64873,1.988700,0.589800,0.658800,1
+aleatorio,AVL,insercao,10000,16,6968,0,2.950500,0.000000,0.000000,1
+aleatorio,AVL,remocao_metade,5000,15,9121,0,2.950500,0.708200,1.145600,1
+aleatorio,Rubro-Negra,insercao,10000,16,5865,23180,2.590300,0.000000,0.000000,1
+aleatorio,Rubro-Negra,remocao_metade,5000,16,8038,31778,2.590300,1.068200,0.868100,1

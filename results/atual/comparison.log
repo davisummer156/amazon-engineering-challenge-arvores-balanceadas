@@ -1,0 +1,46 @@
+INICIO comparador revisao 3
+CASO crescente tipo=0
+ETAPA insercao
+ETAPA buscas
+ETAPA remocao
+PASS crescente AVL insercoes=10000 buscas=20000 remocoes=5000 altura_final=13
+ETAPA liberando arvore
+ETAPA arvore liberada
+CASO crescente tipo=1
+ETAPA insercao
+ETAPA buscas
+ETAPA remocao
+PASS crescente Rubro-Negra insercoes=10000 buscas=20000 remocoes=5000 altura_final=22
+ETAPA liberando arvore
+ETAPA arvore liberada
+CASO decrescente tipo=0
+ETAPA insercao
+ETAPA buscas
+ETAPA remocao
+PASS decrescente AVL insercoes=10000 buscas=20000 remocoes=5000 altura_final=13
+ETAPA liberando arvore
+ETAPA arvore liberada
+CASO decrescente tipo=1
+ETAPA insercao
+ETAPA buscas
+ETAPA remocao
+PASS decrescente Rubro-Negra insercoes=10000 buscas=20000 remocoes=5000 altura_final=22
+ETAPA liberando arvore
+ETAPA arvore liberada
+CASO aleatorio tipo=0
+ETAPA insercao
+ETAPA buscas
+ETAPA remocao
+PASS aleatorio AVL insercoes=10000 buscas=20000 remocoes=5000 altura_final=15
+ETAPA liberando arvore
+ETAPA arvore liberada
+CASO aleatorio tipo=1
+ETAPA insercao
+ETAPA buscas
+ETAPA remocao
+PASS aleatorio Rubro-Negra insercoes=10000 buscas=20000 remocoes=5000 altura_final=16
+ETAPA liberando arvore
+ETAPA arvore liberada
+ENCERRAMENTO fechando comparison.csv
+Comparacao concluida: results/atual/comparison.csv
+FIM comparador revisao 3

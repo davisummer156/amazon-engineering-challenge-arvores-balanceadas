@@ -1,0 +1,37 @@
+INICIO testes revisao 2
+PASS AVL_vazia_unico operacoes=8
+PASS AVL_ordem_0 operacoes=512
+PASS AVL_ordem_1 operacoes=512
+PASS AVL_ordem_2 operacoes=512
+PASS AVL_filhos=0 chave=2 esperado=removido obtido=removido invariantes=OK
+PASS AVL_filhos=1 chave=5 esperado=removido obtido=removido invariantes=OK
+PASS AVL_filhos=2 chave=10 esperado=removido obtido=removido invariantes=OK
+PASS AVL_raiz chave=10
+PASS AVL_raiz chave=5
+PASS AVL_raiz chave=7
+PASS AVL_raiz chave=15
+PASS AVL_raiz chave=2
+PASS AVL_intercalado_seed2026 operacoes=12000
+PASS AVL_limites operacoes=6
+PASS RB_vazia_unico operacoes=8
+PASS RB_ordem_0 operacoes=512
+PASS RB_ordem_1 operacoes=512
+PASS RB_ordem_2 operacoes=512
+PASS RB_filhos=0 chave=2 esperado=removido obtido=removido invariantes=OK
+PASS RB_filhos=1 chave=5 esperado=removido obtido=removido invariantes=OK
+PASS RB_filhos=2 chave=10 esperado=removido obtido=removido invariantes=OK
+PASS RB_raiz chave=10
+PASS RB_raiz chave=5
+PASS RB_raiz chave=7
+PASS RB_raiz chave=15
+PASS RB_raiz chave=2
+PASS RB_intercalado_seed2026 operacoes=12000
+PASS RB_limites operacoes=6
+PASS AVL ajuste 30 20 10 raiz=20 rotacoes=1
+PASS AVL ajuste 10 20 30 raiz=20 rotacoes=1
+PASS AVL ajuste 30 10 20 raiz=20 rotacoes=2
+PASS AVL ajuste 10 30 20 raiz=20 rotacoes=2
+ENCERRAMENTO fechando CSV
+ENCERRAMENTO CSV fechado e objeto liberado
+TOTAL checks=27202 FALHAS=0
+FIM testes revisao 2

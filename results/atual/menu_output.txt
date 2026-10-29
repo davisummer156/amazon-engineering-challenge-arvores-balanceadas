@@ -1,0 +1,494 @@
+
+=== Arvores Balanceadas ===
+1) Arvore AVL
+2) Arvore Rubro-Negra
+3) Comparar as duas arvores
+0) Sair
+Opcao: Opcao invalida.
+
+=== Arvores Balanceadas ===
+1) Arvore AVL
+2) Arvore Rubro-Negra
+3) Comparar as duas arvores
+0) Sair
+Opcao: Opcao invalida.
+
+=== Arvores Balanceadas ===
+1) Arvore AVL
+2) Arvore Rubro-Negra
+3) Comparar as duas arvores
+0) Sair
+Opcao: 
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Arvore vazia
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a buscar (separados por espaco): 99: nao encontrado
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a remover (separados por espaco): 99: nao encontrado, nada removido
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a inserir (separados por espaco): 30: inserido
+20: inserido
+10: inserido
+20: ja existe, insercao ignorada
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a buscar (separados por espaco): 20: encontrado
+99: nao encontrado
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Em ordem: 10 20 30
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: /-- 30 (fb=0)
+20 (fb=0)
+\-- 10 (fb=0)
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Propriedades (ordem BST, alturas corretas e fator de balanceamento em {-1, 0, 1}): OK
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a remover (separados por espaco): 20: removido
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Propriedades (ordem BST, alturas corretas e fator de balanceamento em {-1, 0, 1}): OK
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: 
+===== Relatorio: AVL =====
+Elementos: 2 | Altura (em nos): 2
+Rotacoes: 1
+Tempo (ns):
+  Insercao  operacoes=4        total=1200         media=300.0
+  Remocao   operacoes=2        total=2200         media=1100.0
+  Busca     operacoes=3        total=4700         media=1566.7
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a inserir (separados por espaco): Aviso: entrada invalida ignorada a partir do primeiro valor incorreto.
+Nenhum valor valido informado.
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a inserir (separados por espaco): Aviso: entrada invalida ignorada a partir do primeiro valor incorreto.
+1: inserido
+2: inserido
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Arvore esvaziada.
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Arvore vazia
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Propriedades (ordem BST, alturas corretas e fator de balanceamento em {-1, 0, 1}): OK
+
+--- Arvore AVL ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: 
+=== Arvores Balanceadas ===
+1) Arvore AVL
+2) Arvore Rubro-Negra
+3) Comparar as duas arvores
+0) Sair
+Opcao: 
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Arvore vazia
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a buscar (separados por espaco): 99: nao encontrado
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a remover (separados por espaco): 99: nao encontrado, nada removido
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a inserir (separados por espaco): 30: inserido
+20: inserido
+10: inserido
+20: ja existe, insercao ignorada
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a buscar (separados por espaco): 20: encontrado
+99: nao encontrado
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Em ordem: 10 20 30
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: /-- 30 [VERMELHO]
+20 [PRETO]
+\-- 10 [VERMELHO]
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Propriedades (ordem BST, raiz preta, sem vermelhos consecutivos e mesma altura negra em todos os caminhos): OK
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a remover (separados por espaco): 20: removido
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Propriedades (ordem BST, raiz preta, sem vermelhos consecutivos e mesma altura negra em todos os caminhos): OK
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: 
+===== Relatorio: Rubro-Negra =====
+Elementos: 2 | Altura (em nos): 2
+Rotacoes: 1 | Recoloracoes: 3
+Tempo (ns):
+  Insercao  operacoes=4        total=1200         media=300.0
+  Remocao   operacoes=2        total=13000        media=6500.0
+  Busca     operacoes=3        total=600          media=200.0
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a inserir (separados por espaco): Aviso: entrada invalida ignorada a partir do primeiro valor incorreto.
+Nenhum valor valido informado.
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Valores a inserir (separados por espaco): Aviso: entrada invalida ignorada a partir do primeiro valor incorreto.
+1: inserido
+2: inserido
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Arvore esvaziada.
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Arvore vazia
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: Propriedades (ordem BST, raiz preta, sem vermelhos consecutivos e mesma altura negra em todos os caminhos): OK
+
+--- Arvore Rubro-Negra ---
+1) Inserir
+2) Remover
+3) Buscar
+4) Percurso em ordem
+5) Imprimir arvore
+6) Verificar propriedades
+7) Relatorio (tempo, rotacoes)
+8) Esvaziar arvore e zerar contadores
+0) Voltar
+Opcao: 
+=== Arvores Balanceadas ===
+1) Arvore AVL
+2) Arvore Rubro-Negra
+3) Comparar as duas arvores
+0) Sair
+Opcao: Quantidade de elementos N (2 a 2000000): Valor invalido.
+
+=== Arvores Balanceadas ===
+1) Arvore AVL
+2) Arvore Rubro-Negra
+3) Comparar as duas arvores
+0) Sair
+Opcao: Quantidade de elementos N (2 a 2000000): 
+N = 10 | altura minima possivel = 4 (alturas em nos)
+Sequencia: inserir N | buscar N existentes + N inexistentes | remover os N/2 primeiros do conjunto
+Conjunto    Arvore      Alt.ins Alt.fin  Rotacoes  Recolor.  Ins(ms)  Bus(ms)  Rem(ms)  valida
+crescente   AVL               4       3         8         -    0.001    0.000    0.000  OK
+crescente   Rubro-Negra       5       3         7        38    0.001    0.000    0.001  OK
+decrescente AVL               4       3         8         -    0.001    0.000    0.001  OK
+decrescente Rubro-Negra       5       3         7        38    0.001    0.000    0.001  OK
+aleatorio   AVL               4       3         9         -    0.001    0.000    0.000  OK
+aleatorio   Rubro-Negra       4       3         7        23    0.001    0.000    0.001  OK
+
+=== Arvores Balanceadas ===
+1) Arvore AVL
+2) Arvore Rubro-Negra
+3) Comparar as duas arvores
+0) Sair
+Opcao: 
