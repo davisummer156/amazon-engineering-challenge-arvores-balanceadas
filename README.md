@@ -205,4 +205,4 @@ As referências teóricas utilizadas estão indicadas na [apresentação técnic
 
 ### Declaração de uso de IA
 
-Foi utilizado o ChatGPT, da OpenAI, como ferramenta de apoio em algumas etapas do trabalho, incluindo a reorganização e revisão de trechos de código, o auxílio na preparação de testes e instruções de execução, a redação e revisão da documentação e a elaboração da apresentação. As sugestões geradas por IA não constituem fonte teórica nem garantia de corretude. A responsabilidade pela compreensão, revisão, validação e entrega do trabalho permanece com o autor.
+Foi utilizado o ChatGPT, da OpenAI, como ferramenta de apoio em algumas etapas do trabalho, incluindo a reorganização e revisão de trechos de código, o auxílio na preparação de testes e instruções de execução, a redação e revisão da documentação.
